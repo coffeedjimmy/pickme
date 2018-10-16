@@ -1,0 +1,2 @@
+filename,left_top_x,left_top_y,right_bottom_x,right_bottom_y
+./data/test1.png,340,0,612,272
